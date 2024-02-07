@@ -1,0 +1,7 @@
+﻿*.bat
+*.txt
+/Lieder
+.vs
+/obj
+/Properties
+/bin
